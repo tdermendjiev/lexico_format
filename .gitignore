@@ -1,0 +1,5 @@
+*.lexic
+*.lexic-wal
+*.lexic-shm
+__pycache__/
+.DS_Store
